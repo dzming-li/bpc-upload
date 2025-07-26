@@ -3,16 +3,16 @@
     "magnolia@12.34": {
       "updates": [
         {
-          "version": "4.1.4.0",
-          "update_link": "https://github.com/dzming-li/bpc-upload/releases/download/v4.1.4.0/bypass-paywalls-clean-4.1.4.0.xpi"
+          "version": "4.1.6.3",
+          "update_link": "https://github.com/dzming-li/bpc-upload/releases/download/v4.1.6.3/bypass-paywalls-clean-4.1.6.3.xpi"
         }
       ]
     },
     "magnolia_limited_permissions@12.34": {
       "updates": [
         {
-          "version": "4.1.4.0",
-          "update_link": "https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass_paywalls_clean-4.1.4.0-custom.xpi"
+          "version": "4.1.6.3",
+          "update_link": "https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass_paywalls_clean-4.1.6.3-custom.xpi"
         }
       ]
     }
